@@ -1,15 +1,22 @@
 # tools
 
+Docker
+rabbitMQ
+controlM
+Dkron
+
+
 git
-tmux, neo vim, pyenv 
+pyenv 
 pyproject.toml -> hatch - build tools
-create-env.sh
 create-env.sh
 formatter -> black
 .pre-commit-config.yaml
 gitignore
 
 Linux:
+tmux
+neo vim
 tar
 gzip
 scp
