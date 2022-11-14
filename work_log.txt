@@ -1,0 +1,22 @@
+## Technical
+Linux
+  df -h
+  du -hl
+  crontab -l/e
+  
+
+
+## Finance
+Seeding
+Market Maker
+FIX
+
+
+
+## Quant
+stat-arb
+Gross Market Exposure
+Multiple signals
+combined signal
+
+
