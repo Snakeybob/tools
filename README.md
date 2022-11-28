@@ -39,3 +39,7 @@ pytest
 loguru
 fabric
 sqlalchemy
+
+
+#books
+https://codex.cs.yale.edu/avi/os-book/OS10/
