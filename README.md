@@ -17,36 +17,37 @@
 - .pre-commit-config.yaml
 - gitignore
 
-Linux:
-tmux
-neo vim
-tar
-gzip
-scp
-ssh
-df
-ping
-hostname
-nslookup
-ipconfig
-tracert
-telnet
-tcpdump
-
-Bash:
--shellcheck
--shfmt
-
-
-python:
-click
-luigi
-beartype
-pytest
-loguru
-fabric
-sqlalchemy
+## Linux
+Tools
+ - tmux
+ - neo vim
+ - shellcheck
+Commands 
+  - shfmt
+  - tar
+  - gzip
+  - scp
+  - ssh
+  - df
+  - ping
+  - hostname
+  - nslookup
+  - ipconfig
+  - tracert
+  - telnet
+  - tcpdump
 
 
-#books
+
+## python
+- click
+- luigi
+- beartype
+- pytest
+- loguru
+- fabric
+- sqlalchemy
+
+
+# books
 https://codex.cs.yale.edu/avi/os-book/OS10/
