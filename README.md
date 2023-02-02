@@ -19,9 +19,9 @@
 
 ## Linux
 - Tools
- - tmux
- - neo vim
- - shellcheck
+  - tmux
+  - neo vim
+  - shellcheck
 - Commands 
   - shfmt
   - tar
