@@ -18,11 +18,11 @@
 - gitignore
 
 ## Linux
-Tools
+- Tools
  - tmux
  - neo vim
  - shellcheck
-Commands 
+- Commands 
   - shfmt
   - tar
   - gzip
