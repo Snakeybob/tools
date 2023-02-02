@@ -44,6 +44,7 @@
 - luigi
 - beartype
 - pytest
+- pytest-xdist
 - loguru
 - fabric
 - sqlalchemy
