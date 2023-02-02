@@ -22,8 +22,8 @@
   - tmux
   - neo vim
   - shellcheck
-- Commands 
   - shfmt
+- Commands 
   - tar
   - gzip
   - scp
