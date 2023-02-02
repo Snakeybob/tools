@@ -1,20 +1,21 @@
 # tools
 
--Docker
--Podman
--rabbitMQ
--controlM
-Dkron
-Jenkins
+## DevOps
+- Docker
+- Podman
+- rabbitMQ
+- controlM
+- Dkron
+- Jenkins
 
 
-git
-pyenv 
-pyproject.toml -> hatch - build tools
-create-env.sh
-formatter -> black
-.pre-commit-config.yaml
-gitignore
+## git
+- pyenv 
+- pyproject.toml -> hatch - build tools
+- create-env.sh
+- formatter -> black
+- .pre-commit-config.yaml
+- gitignore
 
 Linux:
 tmux
