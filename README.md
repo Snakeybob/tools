@@ -1,9 +1,11 @@
 # tools
 
-Docker
-rabbitMQ
-controlM
+-Docker
+-Podman
+-rabbitMQ
+-controlM
 Dkron
+Jenkins
 
 
 git
@@ -29,6 +31,10 @@ ipconfig
 tracert
 telnet
 tcpdump
+
+Bash:
+-shellcheck
+-shfmt
 
 
 python:
