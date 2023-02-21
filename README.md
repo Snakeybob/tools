@@ -25,6 +25,7 @@
   - shellcheck
   - shfmt
   - squid proxy
+  - just
 - Commands 
   - tar
   - gzip
