@@ -13,9 +13,10 @@
 - pyenv 
 - pyproject.toml -> hatch - build tools
 - create-env.sh
+- Makefile
 - formatter -> black
 - .pre-commit-config.yaml
-- gitignore
+- .gitignore
 
 ## Linux
 - Tools
@@ -23,6 +24,7 @@
   - neo vim
   - shellcheck
   - shfmt
+  - squid proxy
 - Commands 
   - tar
   - gzip
@@ -48,6 +50,11 @@
 - loguru
 - fabric
 - sqlalchemy
+- pika
+- os
+- subprocess
+- pydantic
+- pandas
 
 
 # books
