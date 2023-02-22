@@ -20,12 +20,12 @@
 
 ## Linux
 - Tools
-  - tmux
+  - tmux - https://github.com/tmux/tmux
   - neo vim
-  - shellcheck
-  - shfmt
+  - shellcheck - https://github.com/koalaman/shellcheck
+  - shfmt - https://github.com/mvdan/sh
   - squid proxy
-  - just
+  - just - https://github.com/casey/just
 - Commands 
   - tar
   - gzip
@@ -40,7 +40,9 @@
   - telnet
   - tcpdump
 
-
+## nvim
+https://github.com/folke/lazy.nvim
+https://github.com/wbthomason/packer.nvim
 
 ## python
 - click
