@@ -41,8 +41,8 @@
   - tcpdump
 
 ## nvim
-https://github.com/folke/lazy.nvim
-https://github.com/wbthomason/packer.nvim
+- lazy - https://github.com/folke/lazy.nvim
+- packer - https://github.com/wbthomason/packer.nvim
 
 ## python
 - click
