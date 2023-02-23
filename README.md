@@ -14,6 +14,7 @@
 - pyproject.toml -> hatch - build tools
 - create-env.sh
 - nvm - https://github.com/nvm-sh/nvm.git
+- npm
 - Makefile
 - formatter -> black
 - .pre-commit-config.yaml
