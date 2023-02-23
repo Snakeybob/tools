@@ -10,9 +10,10 @@
 
 
 ## git
-- pyenv 
+- pyenv - https://github.com/pyenv/pyenv.git
 - pyproject.toml -> hatch - build tools
 - create-env.sh
+- nvm - https://github.com/nvm-sh/nvm.git
 - Makefile
 - formatter -> black
 - .pre-commit-config.yaml
@@ -21,7 +22,7 @@
 ## Linux
 - Tools
   - tmux - https://github.com/tmux/tmux
-  - neo vim
+  - neovim
   - shellcheck - https://github.com/koalaman/shellcheck
   - shfmt - https://github.com/mvdan/sh
   - squid proxy
