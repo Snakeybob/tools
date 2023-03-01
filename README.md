@@ -63,4 +63,7 @@
 
 
 # books
-https://codex.cs.yale.edu/avi/os-book/OS10/
+- https://codex.cs.yale.edu/avi/os-book/OS10/
+
+# vim
+- https://www.vimgolf.com/
