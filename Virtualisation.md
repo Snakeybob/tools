@@ -19,9 +19,11 @@ You also need to install the guest addition on the VM for proper screen resize:
 
 # Step 4 - Download and install Cisco Anyyconnect client
 URL - https://clsavpn.clsa.com/
+
 ![image](https://user-images.githubusercontent.com/39102148/226273820-87cb0ec7-a36c-47d1-b7f7-6fce93478c01.png)
 
 Follow the installation guide below:
+
 ![image](https://user-images.githubusercontent.com/39102148/226276802-6ca5a13b-a1a6-4f8d-86c8-5c6947e3d909.png)
 
 # Step 5 - Install Remmina to access a remote desktop
