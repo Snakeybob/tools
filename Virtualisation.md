@@ -20,35 +20,9 @@ You also need to install the guest addition on the VM for proper screen resize:
 # Step 4 - Download and install Cisco Anyyconnect client
 URL - https://clsavpn.clsa.com/
 ![image](https://user-images.githubusercontent.com/39102148/226273820-87cb0ec7-a36c-47d1-b7f7-6fce93478c01.png)
+
 Follow the installation guide below:
-    1. Install the remote desktop client of your choice, for example:
-    sudo apt-get install remmina-plugin-rdp
-    2. Download AnyConnect client from the “clsavpn.clsa.com” web portal. Assume
-    the AnyConnect package is saved in the ~/Downloads folder.
-    3. Unzip and install Cisco AnyConnect
-    $ cd ~/Downloads
-    $ tar zxvf anyconnect-linux64-x.y.zzzzz-predeploy-k9.tar.gz
-    Note: x.y.zzzzz is the current version number.
-    $ cd anyconnect-x.y.zzzzz/vpn
-    $ sudo ./vpn_install.sh
-    Accept the terms and let it finish.
-    Do you accept the terms in the license agreement? [y/n] y
-    You have accepted the license agreement.
-    Please wait while Cisco AnyConnect Secure Mobility Client is being installed...
-    Starting Cisco AnyConnect Secure Mobility Client Agent...
-    Done!
-    4. Start the AnyConnect GUI and log on.
-    /opt/cisco/anyconnect/bin/vpnui
-    Note:
-    If you have problems in starting VPN, ensure the dependent packages are
-    installed.
-    $ sudo apt-get update
-    $ sudo apt-get install lib32z1 lib32ncurses5
-    If you see below error when starting vpnui, reboot your PC and try again
-    “error while loading shared libraries: libpangox-1.0.so.0: cannot open shared
-    object file: No such file or directory”
-    If you are running Fedora 2x, please also install the package pangox-compat:
-    $sudo yum install pangox-compat
+![image](https://user-images.githubusercontent.com/39102148/226276802-6ca5a13b-a1a6-4f8d-86c8-5c6947e3d909.png)
 
 # Step 5 - Install Remmina to access a remote desktop
 Guide - https://ubuntu.com/tutorials/access-remote-desktop#1-overview
